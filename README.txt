@@ -131,4 +131,12 @@ MAIN AUTHOR
 Send any other comments, patches, flowers and suggestions to:
 
 	Bram Moolenaar		E-mail:	Bram@vim.org
-"# MyVim-Window" 
+
+##########################################################################
+
+
+使用说明：
+
+1、需要将 ctags 中 ctags.exe 添加到环境变量中
+
+2、已经添加 winmanager / ctags 等插件，可直接使用
