@@ -5,6 +5,8 @@
 
 2、已整合 winmanager / ctags 等插件，可直接使用
 
+3、将配置文件 _vimrc 放到 C:\Users\<username>\ 下，方可正常启动
+
 #############################################################################
 
 README.txt for version 8.0 of Vim: Vi IMproved.
