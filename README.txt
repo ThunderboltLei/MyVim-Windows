@@ -1,3 +1,12 @@
+
+使用说明：
+
+1、需要将 ctags 中 ctags.exe 添加到环境变量中
+
+2、已整合 winmanager / ctags 等插件，可直接使用
+
+#############################################################################
+
 README.txt for version 8.0 of Vim: Vi IMproved.
 
 
@@ -132,11 +141,3 @@ Send any other comments, patches, flowers and suggestions to:
 
 	Bram Moolenaar		E-mail:	Bram@vim.org
 
-##########################################################################
-
-
-使用说明：
-
-1、需要将 ctags 中 ctags.exe 添加到环境变量中
-
-2、已经添加 winmanager / ctags 等插件，可直接使用
