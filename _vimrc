@@ -2,7 +2,7 @@ set nocompatible
 set backspace=indent,eol,start
 set number
 set ruler
-set " 突出显示当前行
+" 突出显示当前行
 set cursorline
 filetype on
 colorscheme molokai
